@@ -18,9 +18,7 @@
 *.tar.gz
 *.rar
 
-.settings/
-.classpath
-.project
+
 
 /build/
 
